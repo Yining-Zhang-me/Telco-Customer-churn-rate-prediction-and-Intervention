@@ -1,1 +1,1 @@
-# telco-dashboard
+# Telco
